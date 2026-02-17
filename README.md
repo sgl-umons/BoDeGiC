@@ -1,4 +1,4 @@
-[![SWH](https://archive.softwareheritage.org/badge/origin/https://github.com/mehdigolzadeh/BoDeGiC/)](https://archive.softwareheritage.org/browse/origin/?origin_url=https://github.com/mehdigolzadeh/BoDeGiC)
+[![SWH](https://archive.softwareheritage.org/badge/origin/https://github.com/sgl-umons/BoDeGiC/)](https://archive.softwareheritage.org/browse/origin/?origin_url=https://github.com/sgl-umons/BoDeGiC)
 
 # BoDeGiC
 An automated tool to identify bots in Git repositories by analysing commit information.
